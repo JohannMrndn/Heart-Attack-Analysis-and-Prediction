@@ -3,8 +3,10 @@
 This small exercise of analysis and prediction is based on kaggle dataset https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset from Rashik Rahman.
 
 I compared 4 different models performances : 
-      - Logistic regression 
-      - Decision tree classifier 
+
+- Logistic regression 
+
+- Decision tree classifier 
       - DRandom forest classifier 
       - XGB classifier
 
