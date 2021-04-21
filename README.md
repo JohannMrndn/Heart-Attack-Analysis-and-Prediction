@@ -12,8 +12,7 @@ I compared 4 different models performances :
 Then, I focused my attention on XGB classifier and improved it's performances through column dropping and hyperparameters optimisation (to be completed).
 	sex	cp	trtbps	chol	fbs	restecg	thalachh	exng	oldpeak	slp	caa	thall
 # About the dataset
- ["Age","Sex","Chest pain","Resting blood pressure","Cholestoral","Fasting blood sugar","Resting electrocardiographic results",
-        "Maximum heart rate","Exercise induced angina","Previous peak","Slope","Number of major vessels","Thal rate"]
+
 - age : Age of the patient
 - sex : Sex of the patient
 - cp : Chest Pain type chest pain type
