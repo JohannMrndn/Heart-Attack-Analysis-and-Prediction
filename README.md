@@ -5,10 +5,9 @@ This small exercise of analysis and prediction is based on kaggle dataset https:
 I compared 4 different models performances : 
 
 - Logistic regression 
-
 - Decision tree classifier 
-      - DRandom forest classifier 
-      - XGB classifier
+- DRandom forest classifier 
+- XGB classifier
 
 Then, I focused my attention on XGB classifier and improved it's performances through column dropping and hyperparameters optimisation (to be completed).
 
